@@ -14,14 +14,13 @@ Math(school):
 ==================================
 Anal_geom:
 1) https://stepik.org/lesson/750532/step/1?unit=752373 (пройти только секцию Векторы)
-1.1) https://t.me/c/1937296927/888/7898?single если любишь учёбник, то вот вся теория.
-1.2) теория для степика, с теоремами https://www.hse.ru/mirror/pubs/share/822445994.pdf
-1.3) теория для степика, без теорем  https://portal.tpu.ru/SHARED/k/KONVAL/Textbooks2/Tab1/Konev-Vector_Algebra_ru-.pdf
-1.4) примеры с решением, сначала попробуй сам решить, потом смотри на ответ, вести отдельный конспект с домашкой http://pm.samgtu.ru/sites/pm.samgtu.ru/files/stud/posob/vect_alg.pdf
+1.1) теория для степика, с теоремами https://www.hse.ru/mirror/pubs/share/822445994.pdf
+1.2) теория для степика, без теорем  https://portal.tpu.ru/SHARED/k/KONVAL/Textbooks2/Tab1/Konev-Vector_Algebra_ru-.pdf
+1.3) примеры с решением, сначала попробуй сам решить, потом смотри на ответ, вести отдельный конспект с домашкой http://pm.samgtu.ru/sites/pm.samgtu.ru/files/stud/posob/vect_alg.pdf
 2) просмотреть и переписать в конспект весь материал из видео, ДО уравнения плоскости https://www.youtube.com/watch?v=qgeT0Y5bVuo&list=PLCx14LDfH033hFiofvgBsz750skAoBWM3
 3) скачать https://t.me/c/1937296927/888/8192
 
-В целом, выбери из списка для себя лучший учебник на ментальном уровне,
+В целом если любишь учебники, выбери из списка для себя лучший учебник на ментальном уровне,
 в котором тебе нравится подача материала, 
 https://t.me/c/1937296927/888/7892
 
