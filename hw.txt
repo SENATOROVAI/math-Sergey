@@ -14,9 +14,9 @@ Math(school):
 ==================================
 Anal_geom:
 1) https://stepik.org/lesson/750532/step/1?unit=752373 (пройти только секцию Векторы)
-2) использовать как теоритическую опору для выполнения степика https://portal.tpu.ru/SHARED/k/KONVAL/Textbooks2/Tab1/Konev-Vector_Algebra_ru-.pdf
-3) просмотреть и переписать в конспект весь материал из видео, ДО уравнения плоскости https://www.youtube.com/watch?v=qgeT0Y5bVuo&list=PLCx14LDfH033hFiofvgBsz750skAoBWM3
-4) скачать https://t.me/c/1937296927/888/8192
+1.1) использовать как теоритическую опору для выполнения степика https://portal.tpu.ru/SHARED/k/KONVAL/Textbooks2/Tab1/Konev-Vector_Algebra_ru-.pdf
+2) просмотреть и переписать в конспект весь материал из видео, ДО уравнения плоскости https://www.youtube.com/watch?v=qgeT0Y5bVuo&list=PLCx14LDfH033hFiofvgBsz750skAoBWM3
+3) скачать https://t.me/c/1937296927/888/8192
 
 linal:
 
