@@ -40,6 +40,9 @@ linal:
 1.1) линал для чайников https://www.youtube.com/playlist?list=PLVjLpKXnAGLXPaS7FRBjd5yZeXwJxZil2
 1.2) линал в matlab https://www.youtube.com/playlist?list=PLmu_y3-DV2_kkWhk2mK0opp7ma8mSS3xf
 ==================================
+Демидович:
+1) 1.2 выполнить
+
 Calculus:
 
 Теория(книга - для хардкорщиков): 
