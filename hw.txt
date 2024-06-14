@@ -3,8 +3,8 @@
 выполненные задания переносим в Архив(внизу файла)
 ==================================
 Git:
-1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team         
-2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI  
+1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team
+2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI
 3)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme
 4)https://t.me/c/1937296927/3602/5714 (начать делать)
 ==================================
@@ -25,7 +25,7 @@ Anal_geom:
 4) https://stepik.org/course/4940/info приступить к выполнению!
 
 В целом если любишь учебники, выбери из списка для себя лучший учебник на ментальном уровне,
-в котором тебе нравится подача материала, 
+в котором тебе нравится подача материала,
 https://t.me/c/1937296927/888/7892
 5)https://stepik.org/course/83142/promo?search=4031586027
 6)переписать только список теоретических материалов, к себе в тетрадь https://mooc.lektorium.tv/courses/course-v1:MKGTU+LA_AG+2022_03/course/
@@ -53,7 +53,7 @@ linal:
 
 Calculus:
 
-Теория(книга - для хардкорщиков): 
+Теория(книга - для хардкорщиков):
 https://vk.com/doc297168001_651784102
 
 Практика:
@@ -65,7 +65,7 @@ https://vk.com/doc297168001_651784102
 Теория+практика видео: https://www.youtube.com/watch?v=zkTFyZVav-s&list=PLGtfmJuN1mTD2ND-zeBWHv3ACO5J0G9DR
 Теория+практика видео: https://www.youtube.com/watch?v=ZAiDxlBCW28&list=PLCx14LDfH033RANLVFVAdFIxFHhy1VXHr
 
-2) На каждую тему из 1*) переписать минимум по 3 решения из Math\calculus\theory\Anti-Demidovich (Lyashko I.I., i dr.). Tom 1.pdf 
+2) На каждую тему из 1*) переписать минимум по 3 решения из Math\calculus\theory\Anti-Demidovich (Lyashko I.I., i dr.). Tom 1.pdf
 
 3) переписать все примеры отсюда \Math\calculus\theory\Пределы_решения
 Свой конспект сохранить в каждой папке limit.pdf
@@ -73,13 +73,13 @@ https://vk.com/doc297168001_651784102
 УРА, РУКУ МЫ НАБИЛИ ПОРА ПРАКТИКОВАТЬСЯ:
 
 Итоговый контроль:
-1) скачать https://t.me/c/1937296927/888/11888 
+1) скачать https://t.me/c/1937296927/888/11888
 1.1 Изучить критерий Коши, на 28 странице(задачник)
-1.2 выполнить 5.231 - 5.245 в тетради, 
+1.2 выполнить 5.231 - 5.245 в тетради,
 1.3 конспект загрузить в \Math\calculus\5.231_5.245\limit.pdf
 1.4 так же сделай первые 3 примера из конспекта в sympy https://t.me/c/1937296927/13078
 сохраняешь в \Math\calculus\5.231_5.245\sympy.ipynb
-2) выполнить только чётные 5.272-5.286 
+2) выполнить только чётные 5.272-5.286
 конспект загрузить в \Math\calculus\5.272-5.286\limit.pdf
 3) Выполнить только чётные 5.288-5.333
 конспект загрузить в \Math\calculus\5.288-5.333\limit.pdf
@@ -102,26 +102,26 @@ Python (получить сертификат*):
 *Обязательно пользуйся визуализатором https://pythontutor.com/
 ==================================
 Алгоритмы (выполнить):
-1)https://codeforces.com/problemset/problem/4/A 
+1)https://codeforces.com/problemset/problem/4/A
 2)https://leetcode.com/problems/palindrome-number/
 3)переписать в тетрадь
 https://t.me/SenatorovBootcamp/766/8001 выписать 55стр до 70
 
-1 задача в день(всего 30 задач): 
+1 задача в день(всего 30 задач):
 https://codeforces.com/problemset?order=BY_RATING_ASC&tags=math
 
 копируешь с каждой странице по 1 решению:
-первая страница https://codeforces.com/problemset/status/4/problem/A 
+первая страница https://codeforces.com/problemset/status/4/problem/A
 середина https://codeforces.com/problemset/status/4/problem/A/page/600?order=BY_PROGRAM_LENGTH_ASC
 последняя https://codeforces.com/problemset/status/4/problem/A/page/1356?order=BY_PROGRAM_LENGTH_ASC
- 
-и вставляешь себе в алгоритмы Algorithms\codeforces.ipynb, потом проводишь разбор кода 
+
+и вставляешь себе в алгоритмы Algorithms\codeforces.ipynb, потом проводишь разбор кода
 и так дальше по другим задачам.
 ==================================
-                                                                        
+
 Computer Science:
-1) компьютер сайнс пройти курс https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124 
-2) посмотреть видео https://www.youtube.com/watch?v=Wh22_O8jXVQ&list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc 
+1) компьютер сайнс пройти курс https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124
+2) посмотреть видео https://www.youtube.com/watch?v=Wh22_O8jXVQ&list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc
 
 ==================================
 
@@ -129,4 +129,3 @@ Computer Science:
 ==================================
 ==================================
 Архив:
-

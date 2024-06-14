@@ -5,11 +5,11 @@ public class Watermelon
     {
         Scanner sc = new Scanner(System.in);
         int w = sc.nextInt();
-        if(w % 2 == 0 && w > 2) 
+        if(w % 2 == 0 && w > 2)
         {
             System.out.println("YES");
-        } 
-        else 
+        }
+        else
         {
             System.out.println("NO");
         }
@@ -66,7 +66,7 @@ public class Watermelon
 //             {
 //                 pw.println("NO");
 //             }
-//             else 
+//             else
 //             {
 //                 if(n==2 || n==1)
 //                 {
@@ -89,5 +89,3 @@ public class Watermelon
 //             return;
 //         }
 //     }
-git config --global user.email "s.d.anokhin@yandex.ru"
-  git config --global user.name "Bugagalych"
