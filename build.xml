@@ -1,1 +1,34 @@
+<idea-plugin version="2">
+  <id>com.upsolver.PreCommitHook</id>
+  <name>Pre Commit Hook Plugin</name>
+  <version>0.4.1</version>
+  <vendor email="yahel.yechieli@gmail.com" url="https://github.com/yahely">Yahel Yechieli</vendor>
+
+  <description><![CDATA[
+      Create a file named "pre-commit-hook.sh" in project root,
+      The plugin will run the hook before any commit with the file changed as arguments.
+    ]]></description>
+
+  <change-notes><![CDATA[
+      0.1 - Pre Commit Hook Handler Initial Commit
+      0.2 - Added Progress Indicator
+      0.3 - Added Skip Buttons
+      0.3.1 - Fixed null pointer when committing a deleted file
+      0.4.0 - Added possibility to configure a path to a script
+      0.4.1 - Fixed running non-windows script on windows (python, perl, etc.)
+    ]]>
+  </change-notes>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="141.0"/>
+  <depends>com.intellij.modules.lang</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <checkinHandlerFactory implementation="PreCommitCheckinHandlerFactory"  />
+    <projectConfigurable groupId="tools"
+                         displayName="Pre Commit Hook"
+                         instance="HookConfigurable" />
+  </extensions>
+
+</idea-plugin>
 
