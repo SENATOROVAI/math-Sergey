@@ -12,6 +12,8 @@ repos:
   - repo: https://github.com/macisamuele/language-formatters-pre-commit-hooks
     rev: v2.13.0
     hooks:
+      - id: pretty-format-java
+        args: [--aosp,--autofix]
       - id: pretty-format-toml
         args: [--autofix, --trailing-commas, --inline-comment-spaces, "1", --no-sort]
       - id: pretty-format-yaml
