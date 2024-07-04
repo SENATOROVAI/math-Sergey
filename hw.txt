@@ -29,15 +29,8 @@ Anal_geom:
 https://t.me/c/1937296927/888/7892
 5)https://stepik.org/course/83142/promo?search=4031586027
 6)переписать только список теоретических материалов, к себе в тетрадь https://mooc.lektorium.tv/courses/course-v1:MKGTU+LA_AG+2022_03/course/
-7)Демидович 1.35-1.43, 1.46, 1.48(опционально),1.50(опционально) 1.66, 1.68, 1.77,1.78,1.85(опционально), 1.89, 1.91
-8)1.95(option), 1.98,1.99,1.102(option), 1.104, 1.105, 1.109,1.112,1.113,1.116(option),1.118
-9) 1.124,1.125,1.135, 1.136
 
-linal:
 
-Демидович:
-1)2.1-2.9,2.12-22
-2)2.24-2.30, 2.50-2.68
 
 1) теория, векторная алгебра https://t.me/c/1937296927/888/8330
 1.1) теория для чайников векторная алгебра https://mathter.pro/angem/index.html сделать до 1.10.3 (фото конспекта скинуть в папку math/anal_geom/, в формате pdf)
@@ -53,8 +46,7 @@ linal:
 1.1) линал для чайников https://www.youtube.com/playlist?list=PLVjLpKXnAGLXPaS7FRBjd5yZeXwJxZil2
 1.2) линал в matlab https://www.youtube.com/playlist?list=PLmu_y3-DV2_kkWhk2mK0opp7ma8mSS3xf
 ==================================
-Демидович:
-1) 1.2 выполнить
+
 
 Calculus:
 
@@ -134,8 +126,19 @@ Computer Science:
 ==================================
 ==================================
 Архив:
-1) https://github.com/SENATOROVAI/math-Sergey/blob/main/Math/2.24.pdf 2.1-2.22
-2) https://github.com/SENATOROVAI/math-Sergey/blob/main/Math/Demidovich_1.2.pdf 1.2
-3) https://github.com/SENATOROVAI/math-Sergey/blob/main/Math/Demidovic_Smeshannoye.pdf 1.24, 1.25, 1.35, 1.36
-4) https://github.com/SENATOROVAI/math-Sergey/blob/main/Math/Demidovich_VektProiz.pdf 1.98, 1.99, 1.10, 1.109, 1.112, 1.113
-5) https://github.com/SENATOROVAI/math-Sergey/blob/main/Math/HW_Demidovich.pdf 1.35-1.43, 1.46, 1.66, 1.68, 1.77, 1.78, 1.89
+
+
+Anal_geom: 
+Демидович 
+1) 1.35-1.43, 1.46, 1.48(опционально),1.50(опционально) 1.66, 1.68, 1.77,1.78,1.85(опционально), 1.89, 1.91
+2) 1.95(option), 1.98,1.99,1.102(option), 1.104, 1.105, 1.109,1.112,1.113,1.116(option),1.118
+3) 1.124,1.125,1.135, 1.136
+
+
+
+linal:
+
+Демидович:
+1) 2.1-2.9,2.12-22
+2) 2.24
+3) 1.2
